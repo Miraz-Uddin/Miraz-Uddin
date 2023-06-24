@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraz-uddin" alt="miraz-uddin" /></a> </p>
 
-- 🔭 I’m currently working on **LEARNING MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on **LEARNING MANAGEMENT SYSTEM**  [http://mirazuddin.com/](https://drataullah.com)
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [http://mirazuddin.com/](http://mirazuddin.com/)
+- 👨‍💻 All of my projects are available at [http://mirazuddin.com/](http://mirazuddin.com)
 
-- 💬 Ask me about **REACT, JAVASCRIPT**
+- 💬 Ask me about **REACTJS, NEXTJS, JAVASCRIPT**
 
 - 📫 How to reach me **freelancer.miraz.uddin@gmail.com**
 
