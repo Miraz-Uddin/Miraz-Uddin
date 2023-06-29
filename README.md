@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Miraz Uddin</h1>
-<h3 align="center">A JavaScript Developer with MongoDB, Express.js, React and Node.js expertise from Bangladesh</h3>
+<h3 align="center">A JavaScript Developer with MongoDB, Express.js, React, and Node.js expertise from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraz-uddin&label=Profile%20views&color=0e75b6&style=flat" alt="miraz-uddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraz-uddin" alt="miraz-uddin" /></a> </p>
 
-- 🔭 I’m currently working on **LEARNING MANAGEMENT SYSTEM**  ( [https://drataullah.com](https://drataullah.com) )
+- 🔭 I’m currently working on **LEARNING MANAGEMENT SYSTEM**  [Dr. Ataullah's Tutorial](https://drataullah.com)
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-miraz-uddin.vercel.app](https://portfolio-miraz-uddin.vercel.app)
+- 👨‍💻 All of my projects are available at [Miraz's Portfolio](https://portfolio-miraz-uddin.vercel.app)
 
-- 💬 Ask me about **REACTJS, NEXTJS, JAVASCRIPT**
+- 💬 Ask me about **REACTJS, NEXTJS, JAVASCRIPT, MongoDB, NODEJS**
 
 - 📫 How to reach me **freelancer.miraz.uddin@gmail.com**
 
