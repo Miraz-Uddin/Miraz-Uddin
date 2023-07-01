@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miraz-uddin&show_icons=true&locale=en&layout=compact" alt="miraz-uddin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miraz-uddin&show_icons=true&locale=en" alt="miraz-uddin" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miraz-uddin&" alt="miraz-uddin" /></p>
