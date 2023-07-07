@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **REACTJS, NEXTJS, JAVASCRIPT, MongoDB, NODEJS**
 
-- 📫 How to reach me **freelancer.miraz.uddin@gmail.com**
+- 📫 How to reach me **mirazuddin0623@gmail.com**
 
 - ⚡ Fun fact **I think I am a Friendly Guy**
 
