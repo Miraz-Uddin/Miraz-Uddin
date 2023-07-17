@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [Miraz's Portfolio](https://portfolio-miraz-uddin.vercel.app)
+- 👨‍💻 All of my Previous Projects are Available [Here](https://portfolio-miraz-uddin.vercel.app)
 
 - 💬 Ask me about **REACTJS, NEXTJS, JAVASCRIPT, MongoDB, NODEJS**
 
