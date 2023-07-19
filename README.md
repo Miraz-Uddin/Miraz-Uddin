@@ -23,7 +23,7 @@
 </p>
 
 ### Actively Working
-<img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-jQuery-black?logo=jQuery&style=for-the-badge"/>   <img src="https://img.shields.io/badge/%20-Node.js-black?logo=Node.js&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-jQuery-black?logo=jQuery&style=for-the-badge"/>   <img src="https://img.shields.io/badge/%20-Node.js-black?logo=Node.js&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> 
 
 ### Frontend Frameworks
 <img src="https://img.shields.io/badge/%20-Vue.js-black?logo=vue-dot-js&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Bootstrap-black?logo=bootsrap&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Sass-black?logo=sass&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Less-black?logo=less&style=for-the-badge"/>
