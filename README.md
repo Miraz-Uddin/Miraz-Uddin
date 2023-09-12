@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miraz Uddin</h1>
 <h3 align="center">A JavaScript Developer with React, Node, Express, and MongoDB expertise from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miraz-uddin&label=Profile%20views&color=0e75b6&style=flat" alt="miraz-uddin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraz-uddin" alt="miraz-uddin" /></a> </p>
+<br/>
 
 - 🔭 I’m currently working on **LEARNING MANAGEMENT SYSTEM** [Dr. Ataullah's Tutorial](https://drataullah.com)
 
@@ -17,10 +15,11 @@
 
 - ⚡ Fun fact **I think I am a Friendly Guy**
 
+<!-- Contact  -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/miraz.uddin.7773631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miraz.uddin.7773631" height="30" width="40" /></a>
-</p>
+
+[![Facebook][facebook-shield]][facebook-url]
+[![mail][mail-shield]][mail-url]
 
 <br/>
 <h2 align="center">💻💻💻 Used Technologies 💻💻💻</h2>
@@ -52,3 +51,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz-uddin&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[facebook-url]: https://www.facebook.com/profile.php?id=100083946927748
+[thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-mirazuddin0623%40gmail.com-blueviolet
+[mail-url]: mailto:mirazuddin0623@gmail.com
+[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
